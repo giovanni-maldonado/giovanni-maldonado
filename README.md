@@ -3,11 +3,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=giovanni-maldonado&label=visits&color=858585&style=flat" alt="giovanni-maldonado" /> </p>
 
-<h3 align="center"> - 🌱 I’m currently learning **frontend development in Trybe.**</h3>
+<img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" alt="studying emoji"/>
+<h3 align="left"> -  I’m currently learning frontend development in <strong>Trybe</strong></h3>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/giovanni-maldonado/" target="blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_137494.png" alt="https://www.linkedin.com/in/giovanni-maldonado/" height="40" width="40" /></a>
+</br>
+
+
+<p align="left">
+<a href="https://www.linkedin.com/in/giovanni-maldonado/" target="blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_137494.png" alt="https://www.linkedin.com/in/giovanni-maldonado/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -21,7 +24,6 @@
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-    <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanni-maldonado&show_icons=true&theme=dark&locale=en" alt="giovanni-maldonado" /></p>
