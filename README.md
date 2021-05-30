@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=giovanni-maldonado&label=visits&color=858585&style=flat" alt="giovanni-maldonado" /> </p>
 
-<img align="center" src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" alt="studying emoji"/>
+<p align="center"> <img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" alt="studying emoji"/> </p>
 <h3 align="center"> -  I’m currently learning frontend development in <strong>Trybe</strong></h3>
 
 </br>
