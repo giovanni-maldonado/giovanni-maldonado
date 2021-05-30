@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=giovanni-maldonado&label=visits&color=858585&style=flat" alt="giovanni-maldonado" /> </p>
 
-<img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" alt="studying emoji"/>
-<h3 align="left"> -  I’m currently learning frontend development in <strong>Trybe</strong></h3>
+<img align="center" src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" alt="studying emoji"/>
+<h3 align="center"> -  I’m currently learning frontend development in <strong>Trybe</strong></h3>
 
 </br>
 
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/giovanni-maldonado/" target="blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_137494.png" alt="https://www.linkedin.com/in/giovanni-maldonado/" height="40" width="40" /></a>
 </p>
 
@@ -26,4 +26,4 @@
     <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanni-maldonado&show_icons=true&theme=dark&locale=en" alt="giovanni-maldonado" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanni-maldonado&show_icons=true&theme=onedark&title_color=b565c4&text_color=8565c4&bg_color=1a1a1a&hide_border=true&locale=en" alt="giovanni-maldonado" /></p>
