@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giovanni Maldonado</h1>
+<h1 align="center">Hello curious 👋, I'm Giovanni Maldonado</h1>
 <h3 align="center">Welcome to my Github.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=giovanni-maldonado&label=visits&color=6e00f5&style=flat" alt="giovanni-maldonado" /> </p>>
