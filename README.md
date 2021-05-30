@@ -9,7 +9,10 @@
 </br>
 
 <h3 align="center">Connect with me: </h3>
-    <a align="center" href="https://www.linkedin.com/in/giovanni-maldonado/" target="blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_137494.png" alt="https://www.linkedin.com/in/giovanni-maldonado/" height="40" width="40" /> </a>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/giovanni-maldonado/" target="blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_137494.png"                         alt="https://www.linkedin.com/in/giovanni-maldonado/" height="40" width="40" /> </a>
+ </div>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
