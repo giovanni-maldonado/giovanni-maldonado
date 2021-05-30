@@ -1,7 +1,7 @@
 <h1 align="center">Hello curious 👋, I'm Giovanni Maldonado</h1>
 <h3 align="center">Welcome to my Github.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=giovanni-maldonado&label=visits&color=6e00f5&style=flat" alt="giovanni-maldonado" /> </p>>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=giovanni-maldonado&label=visits&color=6e00f5&style=flat" alt="giovanni-maldonado" /> </p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" alt="studying emoji"/> </p>
 <h3 align="center"> -  I’m currently learning frontend development in <strong>Trybe</strong></h3>
