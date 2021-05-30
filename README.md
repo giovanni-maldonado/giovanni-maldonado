@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=giovanni-maldonado&label=visits&color=858585&style=flat" alt="giovanni-maldonado" /> </p>
 
-<h3> - 🌱 I’m currently learning **frontend development in Trybe.**</h3>
+<h3 align="center"> - 🌱 I’m currently learning **frontend development in Trybe.**</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/giovanni-maldonado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giovanni-maldonado/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/giovanni-maldonado/" target="blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_137494.png" alt="https://www.linkedin.com/in/giovanni-maldonado/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
