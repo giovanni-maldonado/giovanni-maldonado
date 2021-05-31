@@ -10,7 +10,7 @@
 
 ## Connect with me:
 
-<div align="left">
+<div align="center">
     <a href="https://www.linkedin.com/in/giovanni-maldonado/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/61/61109.png"        alt="https://www.linkedin.com/in/giovanni-maldonado/" height="40" width="40" /> </a>
  </div>
 
