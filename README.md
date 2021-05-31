@@ -11,7 +11,7 @@
 <h3 align="center">Connect with me: </h3>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/giovanni-maldonado/" target="blank"><img align="center" src="https://lh3.googleusercontent.com/proxy/EZeFnUgbOHwxmItzyWquEmo0Ic547cv2yKAvDq42h1gW6kCmoore36FHx_I7jV7Gi8bpijPEJFWw4OsIyo7LBKHLhY8A85ZuxcGVTeTT7KosdCaBMCCR"        alt="https://www.linkedin.com/in/giovanni-maldonado/" height="40" width="40" /> </a>
+    <a href="https://www.linkedin.com/in/giovanni-maldonado/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/61/61109.png"        alt="https://www.linkedin.com/in/giovanni-maldonado/" height="40" width="40" /> </a>
  </div>
 
 <h3 align="center">Languages and Tools:</h3>
