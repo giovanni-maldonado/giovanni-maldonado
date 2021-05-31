@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=giovanni-maldonado&label=visits&color=6e00f5&style=flat" alt="giovanni-maldonado" /> </p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" alt="studying emoji"/> </p>
-<h3 align="center"> -  I’m currently learning frontend development in <a href="https://www.betrybe.com">Trybe <img align="center" src="https://pbs.twimg.com/profile_images/1335930580010225667/cFKy_fC3_400x400.jpg" alt="trybe_logo" height="30 width="3" /> </a></h3>
+<h3 align="center"> -  I’m currently learning frontend development in <a href="https://www.betrybe.com">Trybe <img align="center" src="https://pbs.twimg.com/profile_images/1335930580010225667/cFKy_fC3_400x400.jpg" alt="trybe_logo" height="30 width="30" /> </a></h3>
 
 </br>
 
