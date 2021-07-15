@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=giovanni-maldonado&label=visits&color=6e00f5&style=flat" alt="giovanni-maldonado" /> </p>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" alt="studying emoji"/> </p>
-<h3 align="center"> -  I’m currently learning frontend development in <a href="https://www.betrybe.com" target="_blank">Trybe </a></h3>
+<h3 align="center"> -  I’m currently learning FullStack development in <a href="https://www.betrybe.com" target="_blank">Trybe </a></h3>
 
 </br>
 
