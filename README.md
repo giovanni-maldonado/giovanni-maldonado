@@ -1,19 +1,22 @@
-<h1 align="center">Hello curious 👋, I'm Giovanni Maldonado</h1>
-<h3 align="center">Welcome to my Github.</h3>
+<h1 align="center">Hello curious <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width=35>, I'm Giovanni Maldonado</h1>
+
+<div align="center">
+  <h3>Welcome to my Github. </h3>
+  <a href="https://linkedin.com/in/giovanni-maldonado"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&color=0073B1"></a>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=giovanni-maldonado&label=visits&color=6e00f5&style=flat" alt="giovanni-maldonado" /> </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" alt="studying emoji"/> </p>
-<h3 align="center"> -  I’m currently learning web development at <a href="https://www.betrybe.com" target="_blank">Trybe </a></h3>
+<img src="https://raw.githubusercontent.com/andrejarrell/catgifs/master/images/type.gif" alt="cat typing" align="right"/>
 
+## About Me
+
+ -  👨🏽‍💻 Current learning <a href="https://nodejs.org/">nodejs</a>;
+ -  🎮 ~~Competitive~~ Casual gamer;
+ -  👨‍🔧 Learning web development at <a href="https://www.betrybe.com" target="_blank">Trybe</a>;
+ - 🖌 I love using CSS;
+ - 📫 If you want to get in touch here's my email: giovannitadeu08@gmail.com ;
 </br>
-
-## Connect with me:
-
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/giovanni-maldonado/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/61/61109.png"        alt="https://www.linkedin.com/in/giovanni-maldonado/" height="40" width="40" /> </a>
- </div>
 
 <p align="center">
 
