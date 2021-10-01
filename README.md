@@ -1,4 +1,4 @@
-<h1 align="center">Hello curious <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width=35>, I'm Giovanni Maldonado</h1>
+<h1 align="center">Hello curious <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif width=35>, I'm Giovanni</h1>
 
 <div align="center">
   <h3>Welcome to my Github. </h3>
