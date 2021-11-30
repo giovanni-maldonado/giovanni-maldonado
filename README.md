@@ -11,7 +11,7 @@
 
 ## About Me
 
- -  👨🏽‍💻 Current learning <a href="https://nodejs.org/">nodejs</a>;
+ -  👨🏽‍💻 Current learning <a href="https://www.python.org/">python</a>;
  -  🎮 ~~Competitive~~ Casual gamer;
  -  👨‍🔧 Learning web development at <a href="https://www.betrybe.com" target="_blank">Trybe</a>;
  - 🖌 I love using CSS;
