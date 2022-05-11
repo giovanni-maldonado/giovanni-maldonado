@@ -13,7 +13,7 @@
 
  -  👨🏽‍💻 Current learning <a href="https://www.python.org/">python</a>;
  -  🎮 ~~Competitive~~ Casual gamer;
- -  👨‍🔧 Learning web development at <a href="https://www.betrybe.com" target="_blank">Trybe</a>;
+ -  👨‍🔧 Web Developer;
  - 🖌 I love using CSS;
  - 📫 If you want to get in touch here's my email: giovannitadeu08@gmail.com ;
 </br>
