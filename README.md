@@ -21,31 +21,27 @@
 <p align="center">
 
 ## Frontend
-  ![JS](https://camo.githubusercontent.com/8534512647fe601e7de7b3c47924865e592a3bbfcf4c98b8452c14e29f066fd0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b) 
-  ![React](https://camo.githubusercontent.com/0fba4476c2741e4c55a7df3fcda71d2bb939a0e4aca7c3b743e2a099a4cb7010/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b)
-  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) 
+  ![JS](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
+  ![TS](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-1D253A?style=for-the-badge&logo=react&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![HTML](https://camo.githubusercontent.com/939ccbc4390d4b233428c14aeee9278cf90c10e970e0234a42899451538873b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-  ![CSS](https://camo.githubusercontent.com/c903606ae5f49481c87b122c7659bf1bc72a694ee5a015f46a57c5f5f0ade225/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
-  ![Jest](https://camo.githubusercontent.com/ff5966ab2cc8c704aecdf9494dcce2a4d8939cf2e1b2f504f8f6431be99c937a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6573742d4332313332353f7374796c653d666f722d7468652d6261646765266c6f676f3d6a657374266c6f676f436f6c6f723d7768697465)
+  ![Tailwind](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-C63D14?style=for-the-badge&logo=jest&logoColor=white)
 
 ## Backend
 
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Tools
 
-  ![GitHub](https://camo.githubusercontent.com/e9e7e6893896b8e20e0b41d0d83e51e98ba5df709aae5e366e1d0cc85026000d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)
-  ![Git](https://camo.githubusercontent.com/324ecb8e3920e6c4826b60f2afd553c8a1b6ea87782030de0eaa65bb8c8b2919/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
-  ![VSCode](https://camo.githubusercontent.com/19117b013588d83313084a68e99e8ebfa837f0222e7bb1b9736b7401432d8ba0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465)
-  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-  ![Linux](https://camo.githubusercontent.com/09d6bfb27c884ffe596702cbb617cfbf0303a6a7793e6dcfa412fb9b55a55495/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b)
-
+  ![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </p>
-
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovanni-maldonado&show_icons=true&theme=onedark&title_color=b565c4&text_color=8565c4&bg_color=1a1a1a&hide_border=true&locale=en" alt="giovanni-maldonado" /></p>
