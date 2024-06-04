@@ -7,8 +7,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=giovanni-maldonado&label=visits&color=6e00f5&style=flat" alt="giovanni-maldonado" /> </p>
 
-<img src="https://c.tenor.com/j3cVEPj4bzkAAAAC/cat-typing.gif" alt="cat typing" align="right"/>
-
 ## About Me
 
  -  👨🏽‍💻 Current learning <a href="https://www.python.org/">python</a>;
